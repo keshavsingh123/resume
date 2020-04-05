@@ -1,0 +1,25 @@
+   
+
+       body{
+        
+    background-color: palevioletred;
+    
+       }
+h1{
+    color: aqua;
+}
+       
+h3{
+    color: aqua;
+}
+hr{
+           background-color: white;
+           border-style: none;
+           border-top-style: dotted;
+           border-color: blueviolet;
+           border-width: 5px;
+           height: 0px;
+           width: 5%;
+           
+       
+       }
